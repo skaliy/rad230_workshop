@@ -5,3 +5,5 @@ Praktisk workshop for radiografistudenter ved HVL. Vi bruker en språkmodell (Ge
 ## Åpne notatboken i Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skaliy/rad230_workshop/blob/main/llm_workshop_colab.ipynb)
+
+ *Bildekilde for oppgave 10: [Resilience Orthopedics – Shoulder Dislocation](https://www.resilienceorthopedics.com/shoulder/shoulder-dislocation/)*
